@@ -1,4 +1,4 @@
-# Machine Learning con Watson Studio
+# Modelo predictor de abandono usando el servicio de Watson Studio de IBM Cloud
 
 > Presentación [Introducción a Machine Learning](https://ibm.box.com/v/intro-ml-ppt)
 
